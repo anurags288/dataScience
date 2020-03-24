@@ -1,0 +1,6 @@
+Days,Shop1,Shop2,Shop3
+Monday,502,520,563
+Tuesday,544,546,644
+Wednesday,800,200,455
+Thursday,400,658,645
+Friday,814,747,300
